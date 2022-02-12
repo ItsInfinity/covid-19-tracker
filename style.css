@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(to bottom, #6e529d 0%, #d97b93 100%);
+  color: aliceblue;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin: 50px auto;
+}
+h2 {
+  font-size: 1.5rem;
+}
+
+#data {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 125px auto;
+  margin-bottom: 0px;
+}
+p {
+  background-color: azure;
+  color: black;
+  padding: 60px 75px;
+  max-width: 50px;
+  box-shadow: 1px 2px 1px 2px #888888;
+  border-radius: 5px;
+}
